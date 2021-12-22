@@ -1,0 +1,54 @@
+.firstone{
+    height: 20%;
+    border: 1px solid black;
+    width: 70%;
+    border-radius: 0.5rem;
+}
+
+div.customer-info{
+    margin-top: 10px;
+    height: 20%;
+    width: 70%;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
+div p{
+    margin-left: 10px;
+}
+div.order-info{
+    margin-top: 10px;
+    height: 20%;
+    width: 70%;
+    background-color: whitesmoke;
+    border:2px solid black;
+    border-radius: 0.5rem;
+}
+.ptag{
+    display: inline-block;
+    padding-right: 12em;
+} 
+div.product-list{
+    margin-top: 10px;
+    height: 250px;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+.one1{
+    display: inline-block;
+}
+.last-class{
+    display: inline-block;
+}
+.label1{
+    float: left;
+    margin-bottom: 75px;
+    vertical-align: middle;
+}
+.style11{
+    vertical-align: middle;
+    margin-bottom: 250px;
+}
+div h3{
+    vertical-align: middle;
+}
